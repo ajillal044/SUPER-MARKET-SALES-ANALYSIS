@@ -1,5 +1,5 @@
-# <p align="center">SUPER MARKET SALES ANALYSIS!</p>
-# <p align="center">![image](https://github.com/AhamedSahil/Project-1/assets/164605797/25231f93-6fdf-40c6-a2c0-3d49cdcb7241)</p>
+# <p align="center">Unveiling Trends: Analyzing Supermarket Sales for Consumer Insights!</p>
+# <p align="center">![image](https://www.rd.com/wp-content/uploads/2021/10/GettyImages-1141996490-ADedit.jpg?fit=700,467)</p>
 
 This repository contains code and resources for analyzing sales data from a supermarket. The analysis is performed using Sql on  mysqlworkbech and Excel. The purpose of this project is to gain insights into sales trends, customer behavior.
 
